@@ -27,7 +27,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://imgur.com/a/Hr9iGn7' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://imgur.com/a/Hr9iGn7' title='Video Walkthrough' width='10' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
@@ -38,7 +38,7 @@ Just some minor version differences from the sample video and the current xcode/
 
 ## License
 
-Copyright [yyyy] [name of copyright owner]
+Copyright [2018] [Kevin Huynh]
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
